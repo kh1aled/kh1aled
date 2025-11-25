@@ -57,16 +57,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-
-<p>
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kh1aled&show_icons=true&layout=compact" />
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=kh1aled&show_icons=true" />
-</p>
-
-<br><br><br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kh1aled" />
-</p>
