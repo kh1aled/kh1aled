@@ -18,7 +18,7 @@ Full Stack .NET Developer passionate about building scalable, secure, and high-p
 - 🌱 Learning advanced **ASP.NET Core & System Design**
 - 👨‍💻 Portfolio: **https://khaled-dev.vercel.app/**
 - 📫 Email: **khaledhamdy825@gmail.com**
-- 📄 CV: **https://raw.githubusercontent.com/kh1aled/kh1aled/main/MyCv.pdf**
+- 📄 CV: **https://raw.githubusercontent.com/kh1aled/web-dev-cv-templates/blob/main/Full-Stack/FullStack%20.Net%20Web%20Developer.pdf**
 
 ---
 
